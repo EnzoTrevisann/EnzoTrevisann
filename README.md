@@ -44,7 +44,7 @@
 
 <ul>
     <li>
-        <a href="https://enzotrevisann.github.io/Maratona-Explorer-2/" target="_blank">Maratona Explorer 2.0</a>
+        <a href="https://enzotrevisann.github.io/Maratona-Explorer-2/" target="_blank">RocketLinks</a>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
