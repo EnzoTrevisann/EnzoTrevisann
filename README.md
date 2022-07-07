@@ -40,8 +40,15 @@
             <li>CSS3</li>
             <li>JavaScript</li>
         </ul>
+
+        <ul>
+            <li> 
+            <a href="https://enzotrevisann.github.io/Maratona-Explorer-2/" target="_blank">Maratona Explorer 2.0</a>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
 </ul>
-<hr />
+<hr/>
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#">
