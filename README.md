@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Enzo Trevisan Dos Santos</h1>
+<h1 align="center">Enzo Trevisan Dos Santos</h1>
 <h3 align="center">Graduando Análise e Desenvolvimento de Sistemas na FIAP.</h3>
 
 <hr />
